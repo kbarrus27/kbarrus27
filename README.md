@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi! I'm Katy.
+I like to write code, make apps, and build robots. I'm also a FIRST robotics alumna.
 
+**Coding languages I know**
+- I'm comfortable with Python, MIT App Inventor, and Java.
+- I'm familiar with HTML and CSS. (I took a class a few years ago and if I had Google as a reference, I could probably figure it out.)
+
+I'm **currently working on** a music-based app to help kids develop their fine motor skills.
+
+Have a great day!
 <!--
 **kbarrus27/kbarrus27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
