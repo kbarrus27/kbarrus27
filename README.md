@@ -1,5 +1,5 @@
 ### Hi! I'm Katy.
-I like to write code, make apps, and build robots. I'm also a FIRST robotics alumna.
+I like to write code, make apps, and build robots. I'm also an alumna of *FIRST* Lego League and *FIRST* Tech Challenge robotics.
 
 **Coding languages I know**
 - I'm comfortable with Python, MIT App Inventor, and Java.
