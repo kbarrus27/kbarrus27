@@ -5,7 +5,7 @@ I like to write code, make apps, and build robots. I'm an alumna of *FIRST* Lego
 - I'm comfortable with Python, MIT App Inventor, and Java.
 - I'm familiar with HTML and basic CSS. (I took a class on it a few years ago.)
 
-I'm especially interested in working on projects that make a positive difference for people, which I've had the opportunity to do multiple  times in school. This year, I built a music-based app to help kids develop their fine motor skills. Before that, I created a game for my AP Computer Science Principles class about how to have helpful conversations about mental health with peers.
+I'm especially interested in working on projects that make a positive difference for people, which I've had the opportunity to do multiple  times in school. Projects I've worked on have included a music-based app to help kids develop their fine motor skills and a game for students about how to have helpful conversations about mental health.
 
 Have a great day!
 <!--
